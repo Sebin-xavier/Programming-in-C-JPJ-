@@ -1,0 +1,10 @@
+1 Alice 85 92 78
+2 Bob 74 88 69
+3 Charlie 91 83 77
+4 David 65 79 84
+5 Eve 70 95 90
+6 Frank 88 76 82
+7 Grace 93 81 75
+8 Hannah 67 89 80
+9 Ivy 72 94 85
+10 Jack 78 87 73
